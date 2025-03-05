@@ -127,6 +127,14 @@ body {
     .container {
         width: 95%;
     }
+      nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+    nav ul li {
+        margin: 10px 0;
+    }
+}
 
     .contact-header {
         padding: 30px 0;
